@@ -1,0 +1,57 @@
+<style>
+h1 {
+    font-family: 'Times New Roman', serif;
+}
+
+p {
+    font-family: monospace;
+}
+
+body {
+    background-color: #FED9B7;
+    padding: 3%
+}
+
+.change-list-size1 {
+    font-size: 30px;
+}
+
+.change-list-size2 {
+    font-size: 25px;
+}
+
+.change-list-size3 {
+    font-size: 20px;
+}
+
+.change-list-size4 {
+    font-size: 15px;
+}
+
+#change-color-pp {
+    color: #F07167;
+}
+#pic {
+    float: left
+    height: 280px;
+    padding: 10px;
+    background-color: pink;
+}
+
+.pic-container {
+    height: 300px;
+}
+.description {
+font-family: monospace;
+position: absolute;
+top: 36%
+right: 8%
+}
+
+.my-name {}
+    text-align: center;
+    font-family: monospace;
+
+    ul li:nth-child(odd) {
+        background-color:palegreen
+        }
