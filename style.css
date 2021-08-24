@@ -32,10 +32,11 @@ body {
     color: #F07167;
 }
 #pic {
-    float: left
+    float: left;
     height: 280px;
     padding: 10px;
     background-color: pink;
+
 }
 
 .pic-container {
@@ -44,14 +45,25 @@ body {
 .description {
 font-family: monospace;
 position: absolute;
-top: 36%
-right: 8%
+right: 8%;
+top: 36%;
+
 }
 
-.my-name {}
+.my-name {
     text-align: center;
     font-family: monospace;
+}
+   
 
-    ul li:nth-child(odd) {
+ul li:nth-child(odd) {
         background-color:palegreen
+        }
+
+
+.reside {
+ font-family: monospace;
+ text-align: center;
+
+
         }
