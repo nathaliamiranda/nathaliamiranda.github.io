@@ -33,8 +33,8 @@ body {
 }
 #pic {
     float: left;
-    height: 280px;
-    padding: 10px;
+    height: 200px;
+    padding: 10px 10px 10px 10px;
     background-color: pink;
 
 }
